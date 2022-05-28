@@ -1,0 +1,16 @@
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\bin\Debug\net5.0\BjiakeServer.exe
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\bin\Debug\net5.0\BjiakeServer.deps.json
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\bin\Debug\net5.0\BjiakeServer.runtimeconfig.json
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\bin\Debug\net5.0\BjiakeServer.runtimeconfig.dev.json
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\bin\Debug\net5.0\BjiakeServer.dll
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\bin\Debug\net5.0\BjiakeServer.pdb
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\obj\Debug\net5.0\BjiakeServer.csproj.AssemblyReference.cache
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\obj\Debug\net5.0\BjiakeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\obj\Debug\net5.0\BjiakeServer.AssemblyInfoInputs.cache
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\obj\Debug\net5.0\BjiakeServer.AssemblyInfo.cs
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\obj\Debug\net5.0\BjiakeServer.csproj.CoreCompileInputs.cache
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\obj\Debug\net5.0\BjiakeServer.dll
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\obj\Debug\net5.0\refint\BjiakeServer.dll
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\obj\Debug\net5.0\BjiakeServer.pdb
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\obj\Debug\net5.0\BjiakeServer.genruntimeconfig.cache
+C:\Users\pawsw\source\repos\BjiakeServer\BjiakeServer\obj\Debug\net5.0\ref\BjiakeServer.dll
