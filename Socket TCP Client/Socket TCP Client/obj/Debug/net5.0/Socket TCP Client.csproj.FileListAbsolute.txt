@@ -1,0 +1,16 @@
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\bin\Debug\net5.0\Socket TCP Client.exe
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\bin\Debug\net5.0\Socket TCP Client.deps.json
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\bin\Debug\net5.0\Socket TCP Client.runtimeconfig.json
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\bin\Debug\net5.0\Socket TCP Client.runtimeconfig.dev.json
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\bin\Debug\net5.0\Socket TCP Client.dll
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\bin\Debug\net5.0\Socket TCP Client.pdb
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\obj\Debug\net5.0\Socket TCP Client.csproj.AssemblyReference.cache
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\obj\Debug\net5.0\Socket TCP Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\obj\Debug\net5.0\Socket TCP Client.AssemblyInfoInputs.cache
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\obj\Debug\net5.0\Socket TCP Client.AssemblyInfo.cs
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\obj\Debug\net5.0\Socket TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\obj\Debug\net5.0\Socket TCP Client.dll
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\obj\Debug\net5.0\refint\Socket TCP Client.dll
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\obj\Debug\net5.0\Socket TCP Client.pdb
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\obj\Debug\net5.0\Socket TCP Client.genruntimeconfig.cache
+C:\Users\pawsw\source\repos\BjiakeServer\Socket TCP Client\Socket TCP Client\obj\Debug\net5.0\ref\Socket TCP Client.dll
